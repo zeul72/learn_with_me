@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "Redis": "{config_options_here}"
+  }
+}
